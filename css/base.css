@@ -1,0 +1,15 @@
+/* BASE------------- */
+
+
+body{
+    background: #fff ;
+    color: #333;
+    font-family: "Roboto Slab", sans-serif;
+    line-height: 1.65;
+}
+form{
+    margin-bottom: 1.25rem;
+}
+input::placeholder{
+    color: #9b9b9b;
+}

@@ -1,0 +1,13 @@
+/* GRID */
+.container{
+    max-width: 1030px;
+    margin: 0 auto;
+    padding: 20px 15px 40px;
+}
+@media (min-width: 767px){
+    .container{
+        overflow: hidden;
+        height: 1024px;
+        padding: 20px 0px;
+    }
+}
